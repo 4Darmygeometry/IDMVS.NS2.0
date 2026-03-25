@@ -1,0 +1,8 @@
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\bin\Debug\netstandard2.0\MVIDCodeReader.Net.deps.json
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\bin\Debug\netstandard2.0\MVIDCodeReader.Net.dll
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\bin\Debug\netstandard2.0\MVIDCodeReader.Net.pdb
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\obj\Debug\netstandard2.0\MVIDCodeReader.Net.csproj.AssemblyReference.cache
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\obj\Debug\netstandard2.0\MVIDCodeReader.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\obj\Debug\netstandard2.0\MVIDCodeReader.Net.csproj.CoreCompileInputs.cache
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\obj\Debug\netstandard2.0\MVIDCodeReader.Net.dll
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MVIDCodeReader\Doc\MVIDCodeReader.Net.ILSpy\obj\Debug\netstandard2.0\MVIDCodeReader.Net.pdb

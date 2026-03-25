@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RNVDXcc7Vs=",
+  "success": true,
+  "projectFilePath": "D:\\QMDownload\\universitypaper\\BarcodescannerMVVM\\参考demo\\Modules\\MvLogisticsSDK\\Doc\\MvLogisticsSDK.Net.ILSpy\\MvLogisticsSDK.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12639\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\12639\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

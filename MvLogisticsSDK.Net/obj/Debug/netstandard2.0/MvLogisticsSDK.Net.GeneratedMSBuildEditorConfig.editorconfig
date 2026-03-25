@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MvLogisticsSDK.Net
+build_property.ProjectDir = D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

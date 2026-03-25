@@ -1,0 +1,7 @@
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\bin\Debug\net20\MvLogisticsSDK.Net.dll
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\bin\Debug\net20\MvLogisticsSDK.Net.pdb
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\obj\Debug\net20\MvLogisticsSDK.Net.csproj.AssemblyReference.cache
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\obj\Debug\net20\MvLogisticsSDK.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\obj\Debug\net20\MvLogisticsSDK.Net.csproj.CoreCompileInputs.cache
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\obj\Debug\net20\MvLogisticsSDK.Net.dll
+D:\QMDownload\universitypaper\BarcodescannerMVVM\参考demo\Modules\MvLogisticsSDK\Doc\MvLogisticsSDK.Net.ILSpy\obj\Debug\net20\MvLogisticsSDK.Net.pdb
